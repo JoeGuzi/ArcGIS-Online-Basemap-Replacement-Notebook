@@ -6,9 +6,14 @@ Purpose: This script will go through an entire ArcGIS Online Organization or a P
 
 Authored By:
 
-Previous Production Date: 9/18/23      
+Previous Production Date: 8/13/24
 
-Production Date: 8/13/24
+Production Date: 3/25/25
 
 Notes:
-- 8/13/24 --- updated with Audit Template
+
+8/13/24 --- updated with Audit Template
+
+3/25/25 --- Updated for the ArcGIS Python API version 2.4 update
+
+Please reference this blog: Reminder: Raster Basemaps Moved to Mature Support, for the urls to the basemaps that should be replaced.
